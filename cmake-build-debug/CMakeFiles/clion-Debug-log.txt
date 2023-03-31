@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion/bin/ninja/win/x64/ninja.exe" -G Ninja -S F:\____IL_C\selfedu -B F:\____IL_C\selfedu\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/____IL_C/selfedu/cmake-build-debug
